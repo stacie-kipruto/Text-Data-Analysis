@@ -9,6 +9,8 @@
   5. Open Jupyter notebook.
   6. Go to the location where you saved your .ipynb file.
   7. open the file and see the code.
+ 
+ 
 Or
 View the Notebook on the website provided in the description box
 
