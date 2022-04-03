@@ -43,9 +43,11 @@
 ## Analysis on Views, Likes, Dislikes and How they corrrelate to each other.
 
 - The image below is a Regression plot showing the relationship between the variables "views" & "likes" on a regression plot
+
  ![views vs dislikes](https://user-images.githubusercontent.com/66944986/161415210-b5cae346-7f6b-464b-8201-299664357b0f.PNG)
 
 - The image below shows the relationship between the variables "views" & "dislikes" on a regression plot
+
 ![views vs likes](https://user-images.githubusercontent.com/66944986/161415262-92d84f34-e6f9-4e3d-b887-755f9352501a.PNG)
 
 
