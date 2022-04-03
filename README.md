@@ -53,7 +53,8 @@
 
 ## Emoji Analysis on comments and creating a dataframe with the corresponding number of various emojis.
 
-- The image below shows a combination of emojis collected from the comment section of a youtube videp
+- The image below shows a combination of emojis collected from the comment section of a youtube video
+
  ![emojis](https://user-images.githubusercontent.com/66944986/161414900-818a65c2-f60d-49ca-a805-2810a713c3cc.PNG)
 
 - This image shows a compilation of the same
