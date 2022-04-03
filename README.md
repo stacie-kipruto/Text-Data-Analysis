@@ -2,7 +2,7 @@
 ## Extracting the .ipynb:
 - The notebook is rather large as it contains multiple sentiments on a youtube video.
 - The only option would be to:
-  1. Clone the repository onto your github desktop to view the notebook on your local machine.
+  1. Clone the repository onto your GitHub desktop to view the notebook on your local machine.
         OR
   1. View and click the .html file as a raw file.
   2. Press ctrl+s to save it as .ipynb (You would have to manually type ".ipynb" after the file name to make it work as files from GitHub are saved as text files by default.
