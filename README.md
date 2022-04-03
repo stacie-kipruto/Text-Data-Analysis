@@ -36,11 +36,12 @@
   ![positive sentiments](https://user-images.githubusercontent.com/66944986/161414825-49f5938c-3fc3-4730-bf26-08ceef8b8751.png)
 
 
-## Hashtag Analysis
+   3. Hashtag Analysis
 
   ![Hashtag Analysis](https://user-images.githubusercontent.com/66944986/161414760-6070be9f-eaab-4556-9057-eada1e67126c.png)
 
-- Analysis on Likes, Views, Dislikes and How they corrrelate to each other.
+## Analysis on Views, Likes, Dislikes and How they corrrelate to each other.
+
 - The image below is a Regression plot showing the relationship between the variables "views" & "likes" on a regression plot
  ![views vs dislikes](https://user-images.githubusercontent.com/66944986/161415210-b5cae346-7f6b-464b-8201-299664357b0f.PNG)
 
