@@ -3,12 +3,12 @@
 - The notebook is rather large as it contains multiple sentiments on a youtube video.
 - The only option would be to:
   1. Clone the repository onto your GitHub desktop to view the notebook on your local machine.
-        OR
-  1. View and click the .html file as a raw file.
-  2. Press ctrl+s to save it as .ipynb (You would have to manually type ".ipynb" after the file name to make it work as files from GitHub are saved as text files by default.
-  3. Open Jupyter notebook.
-  4. Go to the location where you saved your .ipynb file.
-  5. open the file and see the code.
+ OR
+  3. View and click the .html file as a raw file.
+  4. Press ctrl+s to save it as .ipynb (You would have to manually type ".ipynb" after the file name to make it work as files from GitHub are saved as text files by default.
+  5. Open Jupyter notebook.
+  6. Go to the location where you saved your .ipynb file.
+  7. open the file and see the code.
 
 ## Libraries used: 
   1. Numpy (numpy as np)
