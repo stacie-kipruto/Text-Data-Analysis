@@ -73,3 +73,8 @@
 
 
 ![new dataframe](https://user-images.githubusercontent.com/66944986/161415023-6cf4e390-9511-4371-b898-8a388257ea74.PNG)
+
+
+# Limitations
+1. The dataset was too large and thus I was unable to complete my Analysis as intended.
+2. Large datasets such as this would require high computing power.
